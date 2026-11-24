@@ -1,0 +1,19 @@
+{
+    "fw_update": [
+        {
+            "ECO": "34438",
+            "fw_name": "fw-ConnectX6Dx-rel-22_47_2682-MCX623106AN-CDA_Ax-UEFI-14.40.10-FlexBoot-3.8.201.bin",
+            "script": "Mellanox_FW_Update.sh",
+        },
+        {
+            "ECO": "34097",
+            "fw_name": "fw-ConnectX7-rel-28_47_2682-MCX755106AS-HEA_Ax-UEFI-14.40.10-FlexBoot-3.8.201.signed.bin",
+            "script": "Mellanox_FW_Update.sh"
+        }
+    ],
+    "global_setting": {
+        "is_logging": "true",
+        "is_cburn": "false",
+        "description": "fw"
+    }
+}
