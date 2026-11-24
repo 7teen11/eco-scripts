@@ -3,7 +3,7 @@
         {
             "ECO": "34438",
             "fw_name": "fw-ConnectX6Dx-rel-22_47_2682-MCX623106AN-CDA_Ax-UEFI-14.40.10-FlexBoot-3.8.201.bin",
-            "script": "Mellanox_FW_Update.sh",
+            "script": "Mellanox_FW_Update.sh"
         },
         {
             "ECO": "34097",
